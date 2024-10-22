@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to my GitHub profile!
+This is Giuseppe, a passionate software developer who is currently undertaking a bootcamp in Cloud Web Development.
 
-<!--
-**Giubis/Giubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://tinyurl.com/mr3wawwv" alt="Profile picture" width="300px"/>
 
-Here are some ideas to get you started:
+## About me:
+I will be soon experienced in:
+- Web Development (HTML, CSS, JavaScript, React);
+- Backend (Node.js, Python, Java);
+- Database Management (SQL, MongoDB).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts:
+- Email: giubis@icloud.com
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/thisisgiubis/)
